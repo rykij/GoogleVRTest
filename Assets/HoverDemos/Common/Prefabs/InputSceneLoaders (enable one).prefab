@@ -16,11 +16,11 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 4000014237125728}
-  - component: {fileID: 114000011021317410}
-  - component: {fileID: 114000011277012234}
+  - 4: {fileID: 4000014237125728}
+  - 114: {fileID: 114000011021317410}
+  - 114: {fileID: 114000011277012234}
   m_Layer: 0
   m_Name: Vive
   m_TagString: Untagged
@@ -33,11 +33,11 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 4000012082703322}
-  - component: {fileID: 114000013217058296}
-  - component: {fileID: 114000012064365464}
+  - 4: {fileID: 4000012082703322}
+  - 114: {fileID: 114000013217058296}
+  - 114: {fileID: 114000012064365464}
   m_Layer: 0
   m_Name: LeapMotionOld
   m_TagString: Untagged
@@ -50,10 +50,10 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 4000010163508922}
-  - component: {fileID: 108000013102746392}
+  - 4: {fileID: 4000010163508922}
+  - 108: {fileID: 108000013102746392}
   m_Layer: 0
   m_Name: Point light
   m_TagString: Untagged
@@ -66,11 +66,11 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 4000010968714682}
-  - component: {fileID: 114000011925995568}
-  - component: {fileID: 114000010065337170}
+  - 4: {fileID: 4000010968714682}
+  - 114: {fileID: 114000011925995568}
+  - 114: {fileID: 114000010065337170}
   m_Layer: 0
   m_Name: OculusTouch
   m_TagString: Untagged
@@ -83,11 +83,11 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 4000012549697572}
-  - component: {fileID: 114000013587555066}
-  - component: {fileID: 114000012909008740}
+  - 4: {fileID: 4000012549697572}
+  - 114: {fileID: 114000013587555066}
+  - 114: {fileID: 114000012909008740}
   m_Layer: 0
   m_Name: LeapMotion
   m_TagString: Untagged
@@ -100,9 +100,9 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 4000012014324846}
+  - 4: {fileID: 4000012014324846}
   m_Layer: 0
   m_Name: InputSceneLoaders (enable one)
   m_TagString: Untagged
@@ -115,14 +115,14 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 4000011047583158}
-  - component: {fileID: 20000014165257046}
-  - component: {fileID: 124000014280050386}
-  - component: {fileID: 92000014141869496}
-  - component: {fileID: 81000013160735462}
-  - component: {fileID: 114000013084762626}
+  - 4: {fileID: 4000011047583158}
+  - 20: {fileID: 20000014165257046}
+  - 124: {fileID: 124000014280050386}
+  - 92: {fileID: 92000014141869496}
+  - 81: {fileID: 81000013160735462}
+  - 114: {fileID: 114000013084762626}
   m_Layer: 0
   m_Name: MainCamera
   m_TagString: MainCamera
@@ -135,11 +135,11 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 4000014200164546}
-  - component: {fileID: 114000010989448534}
-  - component: {fileID: 114000014239540374}
+  - 4: {fileID: 4000014200164546}
+  - 114: {fileID: 114000010989448534}
+  - 114: {fileID: 114000014239540374}
   m_Layer: 0
   m_Name: Follow
   m_TagString: Untagged
@@ -152,9 +152,9 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 4000012994747354}
+  - 4: {fileID: 4000012994747354}
   m_Layer: 0
   m_Name: None
   m_TagString: Untagged
@@ -171,10 +171,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0.2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 4000010968714682}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4000010968714682
 Transform:
   m_ObjectHideFlags: 1
@@ -184,11 +184,11 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 4000010163508922}
   m_Father: {fileID: 4000012014324846}
   m_RootOrder: 5
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4000011047583158
 Transform:
   m_ObjectHideFlags: 1
@@ -198,10 +198,10 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 4000012994747354}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4000012014324846
 Transform:
   m_ObjectHideFlags: 1
@@ -211,6 +211,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 4000012994747354}
   - {fileID: 4000014200164546}
@@ -220,7 +221,6 @@ Transform:
   - {fileID: 4000010968714682}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4000012082703322
 Transform:
   m_ObjectHideFlags: 1
@@ -230,10 +230,10 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 4000012014324846}
   m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4000012549697572
 Transform:
   m_ObjectHideFlags: 1
@@ -243,10 +243,10 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 4000012014324846}
   m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4000012994747354
 Transform:
   m_ObjectHideFlags: 1
@@ -256,11 +256,11 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 4000011047583158}
   m_Father: {fileID: 4000012014324846}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4000014200164546
 Transform:
   m_ObjectHideFlags: 1
@@ -270,10 +270,10 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 4000012014324846}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4000014237125728
 Transform:
   m_ObjectHideFlags: 1
@@ -283,10 +283,10 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 4000012014324846}
   m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!20 &20000014165257046
 Camera:
   m_ObjectHideFlags: 1
@@ -317,11 +317,10 @@ Camera:
   m_TargetDisplay: 0
   m_TargetEye: 3
   m_HDR: 0
-  m_AllowMSAA: 1
-  m_ForceIntoRT: 0
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
+  m_StereoMirrorMode: 0
 --- !u!81 &81000013160735462
 AudioListener:
   m_ObjectHideFlags: 1
@@ -343,7 +342,7 @@ Light:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1000011033833458}
   m_Enabled: 1
-  serializedVersion: 8
+  serializedVersion: 7
   m_Type: 2
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 2
@@ -368,8 +367,6 @@ Light:
   m_Lightmapping: 4
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
-  m_ColorTemperature: 6570
-  m_UseColorTemperature: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
 --- !u!114 &114000010065337170

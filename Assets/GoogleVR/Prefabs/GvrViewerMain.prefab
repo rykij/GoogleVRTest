@@ -44,7 +44,7 @@ MonoBehaviour:
   distortionCorrection: 1
   neckModelScale: 0
   autoUntiltHead: 1
-  useUnityRemoteInput: 0
+  UseUnityRemoteInput: 0
   screenSize: 0
   viewerType: 1
   stereoScreenScale: 1

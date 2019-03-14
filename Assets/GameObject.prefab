@@ -808,7 +808,7 @@ MonoBehaviour:
   distortionCorrection: 2
   neckModelScale: 1
   autoUntiltHead: 1
-  useUnityRemoteInput: 0
+  UseUnityRemoteInput: 0
   screenSize: 0
   viewerType: 1
   stereoScreenScale: 1
